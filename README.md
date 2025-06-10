@@ -2,5 +2,5 @@ Welcome to my Movie Recommender Project! This simple yet powerful console applic
 📸 Preview
 ![image](https://github.com/user-attachments/assets/b8f2f02f-27cf-4315-b31a-f2f6f841fbe9)
 🙋‍♂️ Author
-Made with passion by Joksan Martínez 🇳🇮
+Made with passion by Jocksan Martínez 🇳🇮
 Feel free to connect with me!
